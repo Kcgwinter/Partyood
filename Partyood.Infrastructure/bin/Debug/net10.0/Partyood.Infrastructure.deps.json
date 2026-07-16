@@ -7,14 +7,46 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Partyood.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Partyood.Application": "1.0.0"
+        },
         "runtime": {
           "Partyood.Infrastructure.dll": {}
+        }
+      },
+      "Partyood.Application/1.0.0": {
+        "dependencies": {
+          "Partyood.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Partyood.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Partyood.Domain/1.0.0": {
+        "runtime": {
+          "Partyood.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Partyood.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Partyood.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Partyood.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

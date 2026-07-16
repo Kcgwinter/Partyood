@@ -10,3 +10,7 @@ F:\Dev\Partyood\Partyood.Application\obj\Debug\net10.0\Partyood.Application.dll
 F:\Dev\Partyood\Partyood.Application\obj\Debug\net10.0\refint\Partyood.Application.dll
 F:\Dev\Partyood\Partyood.Application\obj\Debug\net10.0\Partyood.Application.pdb
 F:\Dev\Partyood\Partyood.Application\obj\Debug\net10.0\ref\Partyood.Application.dll
+F:\Dev\Partyood\Partyood.Application\bin\Debug\net10.0\Partyood.Domain.dll
+F:\Dev\Partyood\Partyood.Application\bin\Debug\net10.0\Partyood.Domain.pdb
+F:\Dev\Partyood\Partyood.Application\obj\Debug\net10.0\Partyood.Application.csproj.AssemblyReference.cache
+F:\Dev\Partyood\Partyood.Application\obj\Debug\net10.0\Partyood.0615344E.Up2Date

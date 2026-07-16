@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Partyood.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28d378aeee25a1bf7e5eef9142f7b91263974179")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d28a77d946fb318c2789adb54c1cca8ce048661")]
 [assembly: System.Reflection.AssemblyProductAttribute("Partyood.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Partyood.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

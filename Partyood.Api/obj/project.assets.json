@@ -36,6 +36,52 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Partyood.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Partyood.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Partyood.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Partyood.Application.dll": {}
+        }
+      },
+      "Partyood.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Partyood.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Partyood.Contracts.dll": {}
+        }
+      },
+      "Partyood.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Partyood.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Partyood.Domain.dll": {}
+        }
+      },
+      "Partyood.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Partyood.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Partyood.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Partyood.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -75,11 +121,34 @@
         "microsoft.openapi.2.0.0.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "Partyood.Application/1.0.0": {
+      "type": "project",
+      "path": "../Partyood.Application/Partyood.Application.csproj",
+      "msbuildProject": "../Partyood.Application/Partyood.Application.csproj"
+    },
+    "Partyood.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Partyood.Contracts/Partyood.Contracts.csproj",
+      "msbuildProject": "../Partyood.Contracts/Partyood.Contracts.csproj"
+    },
+    "Partyood.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Partyood.Domain/Partyood.Domain.csproj",
+      "msbuildProject": "../Partyood.Domain/Partyood.Domain.csproj"
+    },
+    "Partyood.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Partyood.Infrastructure/Partyood.Infrastructure.csproj",
+      "msbuildProject": "../Partyood.Infrastructure/Partyood.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.AspNetCore.OpenApi >= 10.0.8"
+      "Microsoft.AspNetCore.OpenApi >= 10.0.8",
+      "Partyood.Application >= 1.0.0",
+      "Partyood.Contracts >= 1.0.0",
+      "Partyood.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -115,7 +184,17 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Dev\\Partyood\\Partyood.Application\\Partyood.Application.csproj": {
+              "projectPath": "F:\\Dev\\Partyood\\Partyood.Application\\Partyood.Application.csproj"
+            },
+            "F:\\Dev\\Partyood\\Partyood.Contracts\\Partyood.Contracts.csproj": {
+              "projectPath": "F:\\Dev\\Partyood\\Partyood.Contracts\\Partyood.Contracts.csproj"
+            },
+            "F:\\Dev\\Partyood\\Partyood.Infrastructure\\Partyood.Infrastructure.csproj": {
+              "projectPath": "F:\\Dev\\Partyood\\Partyood.Infrastructure\\Partyood.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
