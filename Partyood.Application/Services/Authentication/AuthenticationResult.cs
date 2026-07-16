@@ -1,8 +1,8 @@
 using System;
 
-namespace Partyood.Contracts.Authentication;
+namespace Partyood.Application.Services.Authentication;
 
-public record AuthenticationResponse(
+public record AuthenticationResult(
     Guid Id,
     string FirstName,
     string LastName,
