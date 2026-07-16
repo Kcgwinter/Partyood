@@ -358,3 +358,7 @@ tempkey.jwk
 # documentation
 docs/TODO/*
 docs/bg/*
+
+# Build outputs
+[Bb]in/
+[Oo]bj/

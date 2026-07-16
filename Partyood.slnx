@@ -1,4 +1,12 @@
 <Solution>
+  <Folder Name="/Docs/">
+    <File Path="Api.md" />
+  </Folder>
+  <Folder Name="/Requests/" />
+  <Folder Name="/Requests/Authentication/">
+    <File Path="Login.http" />
+    <File Path="Register.http" />
+  </Folder>
   <Project Path="Partyood.Api/Partyood.Api.csproj" />
   <Project Path="Partyood.Application/Partyood.Application.csproj" />
   <Project Path="Partyood.Contracts/Partyood.Contracts.csproj" />

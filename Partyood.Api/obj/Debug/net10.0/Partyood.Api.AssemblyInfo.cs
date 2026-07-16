@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Partyood.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d28a77d946fb318c2789adb54c1cca8ce048661")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dc3c236f36a4ce506944557d24333bc418ccb76")]
 [assembly: System.Reflection.AssemblyProductAttribute("Partyood.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Partyood.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
