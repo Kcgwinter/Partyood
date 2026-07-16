@@ -31,4 +31,3 @@ Concepts/Patterns
     - Repository
     - Unit of Work
     - ORM
-    - 

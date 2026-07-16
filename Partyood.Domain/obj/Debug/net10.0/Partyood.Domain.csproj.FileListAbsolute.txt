@@ -1,0 +1,12 @@
+F:\Dev\Partyood\Partyood.Domain\bin\Debug\net10.0\Partyood.Domain.deps.json
+F:\Dev\Partyood\Partyood.Domain\bin\Debug\net10.0\Partyood.Domain.dll
+F:\Dev\Partyood\Partyood.Domain\bin\Debug\net10.0\Partyood.Domain.pdb
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\Partyood.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\Partyood.Domain.AssemblyInfoInputs.cache
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\Partyood.Domain.AssemblyInfo.cs
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\Partyood.Domain.csproj.CoreCompileInputs.cache
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\Partyood.Domain.sourcelink.json
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\Partyood.Domain.dll
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\refint\Partyood.Domain.dll
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\Partyood.Domain.pdb
+F:\Dev\Partyood\Partyood.Domain\obj\Debug\net10.0\ref\Partyood.Domain.dll

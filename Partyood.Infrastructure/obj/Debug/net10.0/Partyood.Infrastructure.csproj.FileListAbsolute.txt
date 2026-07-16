@@ -1,0 +1,12 @@
+F:\Dev\Partyood\Partyood.Infrastructure\bin\Debug\net10.0\Partyood.Infrastructure.deps.json
+F:\Dev\Partyood\Partyood.Infrastructure\bin\Debug\net10.0\Partyood.Infrastructure.dll
+F:\Dev\Partyood\Partyood.Infrastructure\bin\Debug\net10.0\Partyood.Infrastructure.pdb
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\Partyood.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\Partyood.Infrastructure.AssemblyInfoInputs.cache
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\Partyood.Infrastructure.AssemblyInfo.cs
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\Partyood.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\Partyood.Infrastructure.sourcelink.json
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\Partyood.Infrastructure.dll
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\refint\Partyood.Infrastructure.dll
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\Partyood.Infrastructure.pdb
+F:\Dev\Partyood\Partyood.Infrastructure\obj\Debug\net10.0\ref\Partyood.Infrastructure.dll

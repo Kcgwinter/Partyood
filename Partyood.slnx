@@ -1,2 +1,7 @@
 <Solution>
+  <Project Path="Partyood.Api/Partyood.Api.csproj" />
+  <Project Path="Partyood.Application/Partyood.Application.csproj" />
+  <Project Path="Partyood.Contracts/Partyood.Contracts.csproj" />
+  <Project Path="Partyood.Domain/Partyood.Domain.csproj" />
+  <Project Path="Partyood.Infrastructure/Partyood.Infrastructure.csproj" />
 </Solution>

@@ -1,0 +1,12 @@
+F:\Dev\Partyood\Partyood.Contracts\bin\Debug\net10.0\Partyood.Contracts.deps.json
+F:\Dev\Partyood\Partyood.Contracts\bin\Debug\net10.0\Partyood.Contracts.dll
+F:\Dev\Partyood\Partyood.Contracts\bin\Debug\net10.0\Partyood.Contracts.pdb
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\Partyood.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\Partyood.Contracts.AssemblyInfoInputs.cache
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\Partyood.Contracts.AssemblyInfo.cs
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\Partyood.Contracts.csproj.CoreCompileInputs.cache
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\Partyood.Contracts.sourcelink.json
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\Partyood.Contracts.dll
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\refint\Partyood.Contracts.dll
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\Partyood.Contracts.pdb
+F:\Dev\Partyood\Partyood.Contracts\obj\Debug\net10.0\ref\Partyood.Contracts.dll
