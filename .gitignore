@@ -362,3 +362,6 @@ docs/bg/*
 # Build outputs
 [Bb]in/
 [Oo]bj/
+
+**/bin/
+**/obj/
