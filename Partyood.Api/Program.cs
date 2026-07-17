@@ -1,9 +1,10 @@
-using Partyood.Application.Services.Authentication;
+using Partyood.Application;
+using Partyood.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
-    builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
-
+    builder.Services.AddApplication();
+    builder.Services.AddInfrastructure();
     builder.Services.AddControllers();
 }
 
